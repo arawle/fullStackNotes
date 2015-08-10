@@ -1,20 +1,21 @@
 Part 1
 
-For each of the following JS programming topics, come up with a comprehensive explanation/summarization of the concept in under 2 sentences.
+For each of the following JS programming topics, come up with a comprehensive explanationsummarization of the concept in under 2 sentences.
 
-Variable
-Conditional
-Array
-Object
-Function
+Variable - Variables store values. They can change as needed.
+Conditional - A conditional controls the flow of a program by deciding what code runs based on the parameters provided.
+Array - An array holds an ordeed list of objects (such as strings, other objects, numbers, and functions)
+Object - Objects hold and save data of primitive types as well as functions.
+Function - A function takes one or more inputs, does something to them, and returns one output. 
+
 Part 2
 
 Pretend you have a 5 year old brother. You love him and want him to be the best programmer in the world, so you're going to start teaching him JS now! For each of the following JS topics, come up with an explanation appropriate for a 5 year old. Get creative! Consider using analogies, drawings, or activities.
 
 (Yes, this is a real interview question I've come across)
 
-Variable
-Conditional
-Array
-Object
-Function
+Variable - A variable is something that holds a value for later use.
+Conditional - A conditional is something that tells your program what to do. For example, if you had a program that made sandwiches, it could tell it whether to make a peanut butter sandwich or a turkey one. 
+Array - An array is something that holds values. For instance, you could have an array of sandwich types
+Object - An object holds data. For instance, it could hold all the sandwich types, as well as the instructions for how to make them. 
+Function - A function has three parts, something that goes into it, something that changes it in some way, and something that comes out. For example, a toaster takes in a piece of bread (input), toasts it (does something to it/ changes it), and pops up a piece of toast (output).
